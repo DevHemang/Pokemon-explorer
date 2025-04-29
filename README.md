@@ -1,6 +1,10 @@
-# Pokémon Explorer
+# Pokemon Explorer
 
 A simple React application built with Vite that allows users to explore the first 150 Pokémon using data from the PokeAPI.
+
+# Deployment
+ - Deployed on Vercel 
+ https://pokemon-explorer-tan.vercel.app
 
 ## Features
 
